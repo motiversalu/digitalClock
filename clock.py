@@ -4,7 +4,7 @@ import time
 
 root = Tk()  #main canvas
 root.title("Metro Digital Clock")
-root.geometry("600x300+400+250")
+root.geometry("600x350+400+250")
 root.iconbitmap(r"C:\Users\TAHIRUSALIFU\Desktop\MY PYTHON LEARNING\Digitalclock_icon-icons.com_51170.ico")
 root.configure(bg="grey")
 root.resizable(False, False)  #window should not be resizable
